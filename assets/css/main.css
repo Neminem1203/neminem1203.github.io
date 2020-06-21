@@ -3910,3 +3910,6 @@ input, select, textarea {
 
 /* svg text {display: none;}
 svg g:hover text {display: block;} */
+#profile-pic{
+	width: 250px;
+}
